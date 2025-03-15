@@ -1,5 +1,5 @@
 
-name: TOOLBOXLAP
+name: Windows 2025
 
 on:
   workflow_dispatch:
